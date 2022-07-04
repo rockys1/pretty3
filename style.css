@@ -8,6 +8,7 @@ h1{
 p{
     color: blue;
     border: 5px solid gray;
+    background-color: rgb(255, 205, 145);
     padding: 16px;
     border-radius: 20px;
     text-align: justify;
