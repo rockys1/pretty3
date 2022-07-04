@@ -3,10 +3,12 @@ h1{
     background-color: antiquewhite;
     padding: 10px;
     background-position: 20px;
+    text-align: center;
 }
 p{
     color: blue;
     border: 5px solid gray;
     padding: 16px;
     border-radius: 20px;
+    text-align: justify;
 }
